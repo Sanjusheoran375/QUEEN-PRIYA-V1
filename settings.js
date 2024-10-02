@@ -4,7 +4,7 @@
 //Instagram: Prexzy.ay
 //Telegram: t.me/Prexzyvilla_tech
 //GitHub: @Prexzybooster
-//WhatsApp: +2347063956321
+//WhatsApp: +919728893187
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@prexzyvilla
 
 const fs = require('fs')
@@ -17,18 +17,18 @@ global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
 global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
-global.ownernumber = '2347063956321' //ur owner number
-global.ownername = 'Precious Ayomide👑' //ur owner name
+global.ownernumber = '919728893187' //ur owner number
+global.ownername = 'U R MENTAL BUT I LIKE U👑' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
 global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
 global.themeemoji = '🪀'
 global.wm = "Prexzyvilla."
 global.botscript = 'https://github.com/Prexzybooster/QUEEN-PRIYA-V1' //script link
 global.packname = "Sticker By Prexzy"
-global.author = "Prexzy👑\n\n+2347063956321"
-global.creator = "2347063956321@s.whatsapp.net"
+global.author = "Prexzy👑\n\n+919728893187"
+global.creator = "919728893187@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2347063956321"] // Premium User
+global.premium = ["919728893187"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -36,7 +36,7 @@ global.typemenu = 'v10' // menu type 'v1' => 'v12'
 global.typereply = 'v1' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
