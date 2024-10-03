@@ -16,15 +16,15 @@ global.socialm = "GitHub: Prexzybooster" //ur github or insta name
 global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
-global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
+global.botname = 'SANJU-BHAI-V1👑' //ur bot name
 global.ownernumber = '919728893187' //ur owner number
 global.ownername = 'U R MENTAL BUT I LIKE U👑' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
-global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
+global.wagc = "https://whatsapp.com/channel/0029UfPO8qIzztuf42D04"
 global.themeemoji = '🪀'
 global.wm = "Prexzyvilla."
-global.botscript = 'https://github.com/Prexzybooster/QUEEN-PRIYA-V1' //script link
-global.packname = "Sticker By Prexzy"
+global.botscript = 'https://github.com/Sanjusheoran375/QUEEN-PRIYA-V1' //script link
+global.packname = "Sticker By SANJU"
 global.author = "Prexzy👑\n\n+919728893187"
 global.creator = "919728893187@s.whatsapp.net"
 global.xprefix = '.'
@@ -37,10 +37,10 @@ global.typereply = 'v1' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.anticall = true //bot blocks user when called
 global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
