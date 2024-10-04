@@ -1,4 +1,4 @@
-//base by Prexzy
+//base by Sanju
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @prexzyvilla
 //Instagram: Prexzy.ay
@@ -22,10 +22,10 @@ global.ownername = 'U R MENTAL BUT I LIKE U👑' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
 global.wagc = "https://whatsapp.com/channel/0029UfPO8qIzztuf42D04"
 global.themeemoji = '🪀'
-global.wm = "Prexzyvilla."
+global.wm = "Sanju-Bhai."
 global.botscript = 'https://github.com/Sanjusheoran375/QUEEN-PRIYA-V1' //script link
 global.packname = "Sticker By SANJU"
-global.author = "Prexzy👑\n\n+919728893187"
+global.author = "Sanju👑\n\n+919728893187"
 global.creator = "919728893187@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["919728893187"] // Premium User
