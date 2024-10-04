@@ -70,7 +70,7 @@ nocache('../QueenPriyaV1.js', module => console.log(color('[ CHANGE ]', 'green')
 require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
-let phoneNumber = "2349159895444"
+let phoneNumber = "919728893187"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -248,7 +248,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 AAIYE JANAB 👋 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -303,7 +303,7 @@ XeonBotInc.relayMessage(anu.id, msgs.message, {})
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 JANE WALE KO KON ROK SKTA H 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
