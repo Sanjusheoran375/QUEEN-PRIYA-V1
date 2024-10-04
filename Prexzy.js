@@ -1,3 +1,3 @@
 {
-	"name": "QUEEN PRIYA V1 Multi Device "
+	"name": "SANJU BHAI V1 Multi Device "
 }
