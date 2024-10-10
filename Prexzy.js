@@ -1,3 +1,3 @@
 {
-	"name": "SANJU BHAI V1 Multi Device "
+	"name": "👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑 V2 Multi Device "
 }
