@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by 👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @prexzyvilla
-//Instagram: Prexzy.ay
-//Telegram: t.me/Prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +919728893187
+//YouTube: @👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//Instagram: 👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑.ay
+//Telegram: t.me/👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//GitHub: @👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//WhatsApp: +97698181121
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@prexzyvilla
 
 require('./settings')
@@ -70,7 +70,7 @@ nocache('../QueenPriyaV1.js', module => console.log(color('[ CHANGE ]', 'green')
 require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
-let phoneNumber = "919728893187"
+let phoneNumber = "97698181121"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -248,7 +248,7 @@ XeonLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 xeonbody = `┌─❖
-│「 AAIYE JANAB 👋 」
+│「 AAIYE welcome h aapka 👋 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
