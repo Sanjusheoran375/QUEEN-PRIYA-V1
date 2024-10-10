@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by 👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @prexzyvilla
-//Instagram: Prexzy.ay
-//Telegram: t.me/Prexzyvilla_tech
-//GitHub: @Prexzybooster
-//WhatsApp: +919728893187
+//YouTube: @👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//Instagram: 👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//Telegram: t.me/👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//GitHub: @👑qᴜᴇᴇɴ ᴩʀɪyᴀ 👑
+//WhatsApp: +97698181121
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@prexzyvilla
 
 const {
